@@ -6,6 +6,11 @@ SQL &amp; Power BI project analyzing SaaS subscription data to track MRR, ARR, A
 This project analyzes a SaaS subscription dataset to evaluate customer retention and business performance using SQL and Power BI. The objective is to identify churn trends, monitor recurring revenue, and generate actionable insights through interactive dashboards.
 
 
+## Business Problem
+
+A SaaS company wants to understand customer retention, subscription performance, and recurring revenue by analyzing subscription data and identifying churn trends.
+
+
 ## Objectives
 - Calculate Monthly Recurring Revenue (MRR)
 - Calculate Annual Recurring Revenue (ARR)
@@ -21,6 +26,17 @@ This project analyzes a SaaS subscription dataset to evaluate customer retention
 - SQL (MySQL)
 - Power BI
 - Microsoft Excel
+
+
+## Skills Demonstrated
+
+- SQL
+- Data Cleaning
+- Data Transformation
+- Power BI
+- KPI Development
+- Data Visualization
+- Business Analysis
 
 
 ## Dataset
